@@ -12,3 +12,5 @@ This program enable you as the user to store you password and display it the acc
 
 ## Known Bugs
 The bug is the fc function
+
+## Technologies Used
