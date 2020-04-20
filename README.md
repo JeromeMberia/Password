@@ -15,3 +15,12 @@ The bug is the fc function
 
 ## Technologies Used
 * Python
+
+## Support and contact details
+Contact me at jeromemberia@gmail.com 
+
+### License
+
+[MIT LICENCE](https://github.com/JeromeMberia/Password/blob/master/LICENSE)
+
+Copyright (c) 2020 Jerome Mberia
